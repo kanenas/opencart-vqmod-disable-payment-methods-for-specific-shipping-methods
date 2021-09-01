@@ -6,7 +6,7 @@
 	>
 	<id><![CDATA[[VQMOD] Disable payment methods for specific shipping methods]]></id>
 	<version>1.0.0</version>
-	<vqmver>2.6.3</vqmver>
+	<vqmver>2.6.6</vqmver>
 	<author>kanenas.net (aka Nikolas Branis) - nbran@kanenas.net</author>
 	<file path="catalog/model/extension/payment/" name="cod.php" error="log">
 		<operation error="skip">
